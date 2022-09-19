@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "MetabolicSurv"]
-	path = MetabolicSurv
-	url = https://github.com/olajumokeevangelina/metabolicsurv
-	shallow = true
-	registered = true
